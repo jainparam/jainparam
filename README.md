@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jainparam - Mobile Application Developer at Aural.
-- 👀 I’m interested in Android development & Software Engineering.
 - 🌱 I’m a Flutter Developer & learning Software Development Processes. 
 - 💞️ I’m looking to collaborate on Flutter App Development.
 - 📫 How to reach me : @linkedin- https://www.linkedin.com/in/param-jain-77a081201
