@@ -2,7 +2,7 @@
  <img src="https://giphy.com/gifs/Friends-friends-tv-episode-219-Vbtc9VG51NtzT1Qnv1?cid=ecf05e47m3vacsts5fthipjgu8wbhnjcvztklh15knw54iq4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30%" height="30%" />
 </p>
 
-<h2 >Hi there 👋, I am Shatanik Mahanty</h2>
+<h2 >Hi there 👋, I am Param Jain</h2>
 <h3 >Flutter App Developer based out of Kolkata, India</h3>
 
 - 👋 Hi, I’m @jainparam -.
