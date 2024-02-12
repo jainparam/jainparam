@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://giphy.com/gifs/Friends-friends-tv-episode-219-Vbtc9VG51NtzT1Qnv1?cid=ecf05e47m3vacsts5fthipjgu8wbhnjcvztklh15knw54iq4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30%" height="30%" />
+ <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJwaXNqbGN1bmd0aWVsZmptcG8wb3JjMmRpeXRoOTd5NjhwbWN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbtc9VG51NtzT1Qnv1/giphy.gif?cid=ecf05e47m3vacsts5fthipjgu8wbhnjcvztklh15knw54iq4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30%" height="30%" />
 </p>
 
 <h2 >Hi there 👋, I am Param Jain</h2>
