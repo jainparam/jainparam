@@ -3,7 +3,7 @@
 </p>
 
 <h2 >Hi there 👋, I am Param Jain</h2>
-<h3 >Flutter App Developer based out of Kolkata, India</h3>
+<h3 >Flutter App Developer based out of Vadodara, India</h3>
 
 - 👋 Hi, I’m @jainparam -.
 - 🌱 Learning more about **Flutter, Django, PHP, NextJs and Vercel** 
