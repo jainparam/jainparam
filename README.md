@@ -6,7 +6,7 @@
 <h3 >Flutter App Developer based out of Vadodara, India</h3>
 
 - 👋 Hi, I’m @jainparam -.
-- 🌱 Learning more about **Flutter, Django, PHP, NextJs and Vercel** 
+- 🌱 Learning more about **Flutter, Java, SQL, Python, and Tableau** 
 - 💞️ I’m looking to collaborate on Flutter App Development.
 - 📫 How to reach me :
   * [![Gmail Badge](https://img.shields.io/badge/-paramjain1920@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:chatterjeeu7@gmail.com)](mailto:paramjain1920@gmail.com)
